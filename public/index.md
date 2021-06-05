@@ -150,7 +150,7 @@ tieneEspacios('sinrepetirysinsoplar')
 
 ```js
 const laMasLarga = (lista1, lista2) => 
-  length(lista1) > length(length) ? lista1 : lista2
+  length(lista1) > length(lista2) ? lista1 : lista2
 
 laMasLarga(['hola', 'chau'], [10, 7, 8, 3])
 // [10, 7, 8, 3]
@@ -289,7 +289,7 @@ const cantidadPalabras = compose(largo, separarPalabras)
 
 ![Cantidad palabras](img/funcion-cantidadPalabras-compuesta.png)
 
-Para que las funciones _enganchen_, el **tipo de salida** de una tiene que coincidir con el **tipo de entrada** de la otra. 
+Para que las funciones _enganchen_, el **tipo de salida** de una tiene que coincidir con el **tipo de entrada** de la siguiente. 
 
 Además, solo podemos componer funciones que tengan exactamente **un parámetro**.
 
