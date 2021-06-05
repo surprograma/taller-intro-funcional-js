@@ -471,3 +471,7 @@ Después de pasar un tiempo programando en funcional, ya no van a mirar con tant
 </div>
 
 <img width="200px" src="img/perfil.png">
+
+--
+
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/embed/618f5c99900d4c938318552939b4b1d5/646877580703' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
